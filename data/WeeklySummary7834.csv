@@ -1,0 +1,83 @@
+Date,Name,Icon,Type,Quantity,Units,Calories,Deleted,Fat (g),Protein (g),Carbohydrates (g),Saturated Fat (g),Sugars (g),Fiber (g),Cholesterol (mg),Sodium (mg)
+06/19/2022,Pancake,Recipe,Breakfast,1.0,Serving,178,0,3.25,10.25,28.25,1.25,4,3.75,57.50,483.75
+06/19/2022,"Strawberries, Whole",Strawberry,Breakfast,20.0,Grams,6,0,0.6,0.13,1.54,0,0.98,0.40,0,0.20
+06/19/2022,Real Whipped Cream,Cream,Breakfast,15.0,Grams,40,0,3,0.50,3,2,2,0,10,10
+06/19/2022,"Syrup, Maple",Syrup,Breakfast,5.0,Milliliters,18,0,0.1,0,4.54,0,4.3,0,0,0.61
+06/19/2022,White Pita Bread,PitaSandwich,Lunch,1.5,Pieces,160,0,1,5,33,0,1,1,0,250
+06/19/2022,Tzatziki 2tbsp 30gm,SourCream,Lunch,40.0,Grams,67,0,4.67,2.67,2.67,2.67,1.33,0,13.33,126.67
+06/19/2022,"Chicken, Thigh, Skinless, Cooked, Meat Only",Chicken,Lunch,170.0,Grams,304,0,13.86,42.9,0,3.93,0,0,226.10,180.20
+06/19/2022,"Beer, Budweiser",Beer,Snacks,355.0,Milliliters,136,0,n/a,1.22,9.94,n/a,n/a,n/a,n/a,n/a
+06/19/2022,45% Cocoa Dark Chocolate,Chocolate,Snacks,2.0,Pieces,44,0,2.44,0.44,5.33,1.33,4.67,0.67,n/a,n/a
+06/19/2022,White Pita Bread,PitaSandwich,Snacks,1.5,Pieces,160,0,1,5,33,0,1,1,0,250
+06/19/2022,45% Cocoa Dark Chocolate,Chocolate,Snacks,3.0,Pieces,67,0,3.67,0.67,8,2,7,1,n/a,n/a
+06/19/2022,Crackers Garden Vegetable,Cracker,Snacks,6.0,Pieces,135,0,5.25,3,18,2.25,3,1.50,0,225
+06/19/2022,Cinnamon Square,CinnamonRoll,Snacks,1.0,Serving,90,0,3,0,19,1.50,8,5,0,85
+06/18/2022,McGillicuddy's black licorice liqueur,Alcohol,Breakfast,2.25,Ounces,162,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+06/18/2022,"Chicken, Thigh, Skinless, Cooked, Meat Only",Chicken,Dinner,100.0,Grams,179,0,8.15,24.76,0,2.31,0,0,133,106
+06/18/2022,"Chicken Breast, Skinless, Cooked",Chicken,Dinner,180.0,Grams,297,0,6.43,55.84,0,1.82,0,0,153,133.20
+06/18/2022,Small Red Potatos,Potato,Dinner,120.0,Grams,186,0,2.12,29.63,250.59,0.42,15.66,26.67,0,93.55
+06/18/2022,Tzatziki 2tbsp 30gm,SourCream,Dinner,55.0,Grams,92,0,6.42,3.67,3.67,3.67,1.83,0,18.33,174.17
+06/18/2022,"Beer, Alexander Keith's, Pale Ale",Beer,Dinner,23.0,Fluid ounces,305,0,0,3.45,22.43,0,n/a,n/a,0,n/a
+06/18/2022,White Pita Bread,PitaSandwich,Dinner,1.5,Pieces,160,0,1,5,33,0,1,1,0,250
+06/18/2022,Olive Hearth Loaf,OliveBlack,Snacks,0.5,Serving,75,0,1.25,3,13,0.15,0,1,0,160
+06/18/2022,Bbq Chips,PotatoChip,Snacks,4.0,Grams,21,0,1.28,0.32,2.24,0.8,0.24,0.16,0,22.40
+06/18/2022,Ice Cream Sandwich,Sandwich,Snacks,1.0,Serving,220,0,8,2,35,1,21,1,5,85
+06/17/2022,Six beans,BeanRed,Lunch,0.5,Cup,110,0,1,7,21,0.20,0,7,0,115
+06/17/2022,"Ground Beef, 90% Lean, Broiled",Beef,Lunch,128.0,Grams,278,0,15.1,33.42,0,5.91,0,0,108.80,87.4
+06/17/2022,Dark red kidney beans,BeanRed,Lunch,0.5,Cup,90,0,0.50,7,17,0.10,0.50,5.50,0,110
+06/17/2022,"Fries, Sweet Potato, Organic from Costco (15 pieces or 85g)",FrenchFries,Lunch,85.0,Grams,140,0,6,1,21,1,8,2,0,230
+06/17/2022,"Beer, Alexander Keith's, Pale Ale",Beer,Lunch,11.5,Fluid ounces,152,0,0,1.73,11.21,0,n/a,n/a,0,n/a
+06/17/2022,"Vegetables, Mixed, Organic",Vegetable,Lunch,170.0,Grams,94,0,0.94,3.78,18.89,0,7.56,5.67,0,37.78
+06/17/2022,Tzatziki 2tbsp 30gm,SourCream,Lunch,38.0,Grams,63,0,4.43,2.53,2.53,2.53,1.27,0,12.67,120.33
+06/17/2022,Crackers Garden Vegetable,Cracker,Snacks,2.0,Pieces,45,0,1.75,1,6,0.75,1,0.50,0,75
+06/17/2022,Peach,Peach,Snacks,2.0,Servings,120,0,1,2,30,n/a,26,4,n/a,n/a
+06/17/2022,Peach,Peach,Snacks,1.0,Serving,60,0,0.50,1,15,n/a,13,2,n/a,n/a
+06/17/2022,Naval Orange (Large),Orange,Snacks,1.0,Serving,87,0,0.20,1.70,22,0,17,4.40,0,0
+06/17/2022,45% Cocoa Dark Chocolate,Chocolate,Snacks,1.0,Piece,22,0,1.22,0.22,2.67,0.67,2.33,0.33,n/a,n/a
+06/17/2022,"Ice Cream, Vanilla, Cone",IceCream,Snacks,1.0,Each,230,0,6,5,39,4,28,0,25,135
+06/16/2022,"Ground Beef, 90% Lean, Broiled",Beef,Lunch,90.0,Grams,195,0,10.56,23.50,0,4.16,0,0,76.50,61.20
+06/16/2022,"Fries, Sweet Potato, Organic from Costco (15 pieces or 85g)",FrenchFries,Lunch,85.0,Grams,140,0,6,1,21,1,8,2,0,230
+06/16/2022,Dark red kidney beans,BeanRed,Lunch,1.0,Cup,180,0,1,14,34,0.20,1,11,0,220
+06/16/2022,"Vegetables, Mixed, Organic",Vegetable,Lunch,170.0,Grams,94,0,0.94,3.78,18.89,0,7.56,5.67,0,37.78
+06/16/2022,"Beer, Alexander Keith's, Pale Ale",Beer,Lunch,11.5,Fluid ounces,152,0,0,1.73,11.21,0,n/a,n/a,0,n/a
+06/16/2022,"Fish, Atlantic Salmon, Wild, Cooked",Fish,Dinner,155.0,Grams,219,0,8.20,32.80,0,1.37,0,0,82.1,170.86
+06/16/2022,Organic Broccoli Florets,Broccoli,Dinner,85.0,Grams,25,0,0,2,4,0,1,3,0,20
+06/16/2022,"Perogies, Ukrainian Style For Garlic Lovers",Fritter,Dinner,3.0,Pieces,180,0,3,4.50,32.25,0.75,0.75,1.50,0,352.50
+06/16/2022,"Beer, Alexander Keith's, Pale Ale",Beer,Snacks,11.5,Fluid ounces,152,0,0,1.73,11.21,0,n/a,n/a,0,n/a
+06/16/2022,45% Cocoa Dark Chocolate,Chocolate,Snacks,2.0,Pieces,44,0,2.44,0.44,5.33,1.33,4.67,0.67,n/a,n/a
+06/16/2022,Olive Hearth Loaf,OliveBlack,Snacks,1.0,Serving,150,0,2.50,6,26,0.30,0,2,0,320
+06/16/2022,Clarified Butter (Ghee),Butter,Snacks,1.0,Teaspoon,45,0,5,0,0,n/a,0,0,n/a,0
+06/16/2022,Crackers Garden Vegetable,Cracker,Snacks,4.0,Pieces,90,0,3.50,2,12,1.50,2,1,0,150
+06/16/2022,Crackers Garden Vegetable,Cracker,Snacks,4.0,Pieces,90,0,3.50,2,12,1.50,2,1,0,150
+06/16/2022,Ice Cream Sandwich,Sandwich,Snacks,0.5,Serving,110,0,4,1,17.50,0.50,10.50,0.50,2.50,42.50
+06/16/2022,Tzatziki 2tbsp 30gm,SourCream,Snacks,30.0,Grams,50,0,3.50,2,2,2,1,0,10,95
+06/15/2022,Dark red kidney beans,BeanRed,Lunch,1.0,Cup,180,0,1,14,34,0.20,1,11,0,220
+06/15/2022,"Ground Beef, 90% Lean, Broiled",Beef,Lunch,145.0,Grams,315,0,17.1,37.86,0,6.70,0,0,123.25,98.60
+06/15/2022,"Fries, Sweet Potato, Organic from Costco (15 pieces or 85g)",FrenchFries,Lunch,90.0,Grams,148,0,6.35,1.6,22.24,1.6,8.47,2.12,0,243.53
+06/15/2022,"Vegetables, Mixed, Organic",Vegetable,Lunch,170.0,Grams,94,0,0.94,3.78,18.89,0,7.56,5.67,0,37.78
+06/15/2022,"Cheese,Marble Cheddar",Cheese,Lunch,30.0,Grams,120,0,10,7,1,7,0,0,30,220
+06/15/2022,"Beer, Alexander Keith's, Pale Ale",Beer,Lunch,12.0,Fluid ounces,159,0,0,1.80,11.70,0,n/a,n/a,0,n/a
+06/15/2022,45% Cocoa Dark Chocolate,Chocolate,Snacks,2.0,Pieces,44,0,2.44,0.44,5.33,1.33,4.67,0.67,n/a,n/a
+06/15/2022,Naval Orange (Large),Orange,Snacks,2.0,Servings,174,0,0.40,3.40,44,0,34,8.80,0,0
+06/14/2022,Dark red kidney beans,BeanRed,Lunch,1.0,Cup,180,0,1,14,34,0.20,1,11,0,220
+06/14/2022,"Cheese, Parmesan, Grated",Cheese,Lunch,0.5,Tablespoon,35,0,2.25,3,0.50,1.50,0,0,7.50,130
+06/14/2022,"Fries, Sweet Potato, Organic from Costco (15 pieces or 85g)",FrenchFries,Lunch,120.0,Grams,198,0,8.47,1.41,29.65,1.41,11.29,2.82,0,324.71
+06/14/2022,"Ground Beef, 85% Lean, Broiled",Beef,Lunch,144.0,Grams,360,0,22.29,37.34,0,8.47,0,0,129.60,103.68
+06/14/2022,"Gay Lea Sour Cream, Original (2tbsp 30ml)",SourCream,Lunch,30.0,Milliliters,45,0,4,0.99,1.97,2.46,1,0,15,25
+06/14/2022,"Cheese,Marble Cheddar",Cheese,Lunch,15.0,Grams,60,0,5,3.50,0.50,3.50,0,0,15,110
+06/14/2022,"Vegetables, Mixed, Organic",Vegetable,Lunch,170.0,Grams,94,0,0.94,3.78,18.89,0,7.56,5.67,0,37.78
+06/14/2022,Crackers Garden Vegetable,Cracker,Snacks,4.0,Pieces,90,0,3.50,2,12,1.50,2,1,0,150
+06/14/2022,Ice Cream Sandwich,Sandwich,Snacks,1.0,Serving,220,0,8,2,35,1,21,1,5,85
+06/14/2022,45% Cocoa Dark Chocolate,Chocolate,Snacks,1.0,Piece,22,0,1.22,0.22,2.67,0.67,2.33,0.33,n/a,n/a
+06/14/2022,Real Whipped Cream,Cream,Snacks,30.0,Grams,80,0,6,1,6,4,4,0,20,20
+06/14/2022,"Strawberries, Whole",Strawberry,Snacks,220.0,Grams,70,0,0.66,1.47,16.90,0.2,10.76,4.40,0,2.20
+06/13/2022,Raisin Bran,Cereal,Breakfast,59.0,Grams,190,0,1,5,46,0.20,21,8,0,230
+06/13/2022,Sealtest 2% Reduced Fat Milk 8 oz.,Milk,Breakfast,0.5,Cup,65,0,2.50,4.50,6,1.50,5.50,n/a,10,55
+06/13/2022,Olive Hearth Loaf,OliveBlack,Breakfast,0.5,Serving,75,0,1.25,3,13,0.15,0,1,0,160
+06/13/2022,"Fries, Sweet Potato, Organic from Costco (15 pieces or 85g)",FrenchFries,Lunch,132.0,Grams,217,0,9.32,1.55,32.61,1.55,12.42,3.11,0,357.18
+06/13/2022,"Vegetables, Mixed, Organic",Vegetable,Lunch,85.0,Grams,47,0,0.47,1.89,9.44,0,3.78,2.83,0,18.89
+06/13/2022,"Fish, Fillet, Beer Battered",Fish,Lunch,2.0,Servings,300,0,21,10,19,1.50,2,1,35,510
+06/13/2022,"Strawberries, Whole",Strawberry,Dinner,320.0,Grams,102,0,0.96,2.14,24.58,0.3,15.65,6.40,0,3.20
+06/13/2022,Cinnamon Square,CinnamonRoll,Dinner,1.0,Serving,90,0,3,0,19,1.50,8,5,0,85
+06/13/2022,Ice Cream Sandwich,Sandwich,Snacks,1.0,Serving,220,0,8,2,35,1,21,1,5,85
+06/13/2022,Crackers Garden Vegetable,Cracker,Snacks,4.0,Pieces,90,0,3.50,2,12,1.50,2,1,0,150

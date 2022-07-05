@@ -1,0 +1,90 @@
+Date,Name,Icon,Type,Quantity,Units,Calories,Deleted,Fat (g),Protein (g),Carbohydrates (g),Saturated Fat (g),Sugars (g),Fiber (g),Cholesterol (mg),Sodium (mg)
+06/05/2022,Pancake Mix,Pancakes,Breakfast,95.0,Grams,317,0,1.27,15.83,63.33,0,3.17,9.50,0,1108.33
+06/05/2022,Peaches In Syrup,Peach,Breakfast,0.25,Cup,55,0,0,0,13,0,12.50,1.50,0,0
+06/05/2022,"Strawberries, Whole",Strawberry,Breakfast,60.0,Grams,19,0,n/a,0.42,4.62,n/a,2.94,1.20,n/a,n/a
+06/05/2022,Real Whipped Cream,Cream,Breakfast,15.0,Grams,40,0,3,0.50,3,2,2,0,10,10
+06/05/2022,"Syrup, Maple",Syrup,Breakfast,5.0,Milliliters,18,0,0,0,4.42,n/a,4.42,n/a,n/a,0.8
+06/05/2022,Whole Kernel Corn Frozen,Corn,Dinner,85.0,Grams,85,0,1.42,2.83,15.11,0,6.61,3.78,0,0
+06/05/2022,"Fries, Sweet Potato, Organic from Costco (15 pieces or 85g)",FrenchFries,Dinner,170.0,Grams,280,0,12,2,42,2,16,4,0,460
+06/05/2022,Beans - Six bean mix,BeanBlack,Dinner,1.0,Cup,240,0,2,14,41,0.40,1,10,n/a,240
+06/05/2022,"Asparagus, Raw",Asparagus,Dinner,85.0,Grams,17,0,0.10,1.87,3.31,0,1.62,1.78,0,1.70
+06/05/2022,"Vegetables, Mixed, Organic",Vegetable,Dinner,85.0,Grams,47,0,0.47,1.89,9.44,0,3.78,2.83,0,18.89
+06/05/2022,Butter regular 2tsp Per Serv,Butter,Dinner,5.0,Grams,35,0,4,0.5,0,2.50,0,0,12.50,0
+06/05/2022,Erie Meats Chicken Nuggets,Chicken,Dinner,2.0,Servings,240,0,14,12,20,2,0,0,40,360
+06/05/2022,"Beer, Alexander Keith's, Pale Ale",Beer,Dinner,12.0,Fluid ounces,159,0,0,1.80,11.70,0,n/a,n/a,0,n/a
+06/05/2022,"Peach, Medium",Peach,Snacks,1.0,Each,59,0,0.38,1.37,14.31,0.2,12.59,2.25,0,0
+06/05/2022,"Chocolate Bar, Brownie, With Milk & Dark Chocolate, Roasted",Chocolate,Snacks,1.25,Pieces,55,0,3.25,0.50,6.25,2,5.50,0.50,0,3.75
+06/04/2022,"Egg, Large",Egg,Breakfast,1.25,Each,89,0,5.94,7.85,0.45,1.95,0.23,0,232.50,88.75
+06/04/2022,Cranberry & Oat Bread,WhiteBread,Breakfast,2.0,Slices,200,0,2,8,40,0.40,12,3,0,290
+06/04/2022,Crispy Chicken Burger,Chicken,Lunch,0.75,Each,255,0,13.50,12.75,20.25,1.88,0.75,0.75,45,435
+06/04/2022,Avocado Goddess Dressing & Dip,Avocado,Lunch,2.0,Tablespoons,150,0,16,0,2,1.50,1,0,0,260
+06/04/2022,"Pizza, Hand Tossed, Slice, Supreme, 14""",Pizza,Dinner,5.0,Each,"1,900",0,90,85,190,40,25,10,225,5000
+06/04/2022,Cheetos Puffs,Snack,Snacks,37.0,Grams,207,0,13.32,2.22,19.24,2.22,2.22,0.74,3.70,325.60
+06/03/2022,Foccacia Bianco,WhiteBread,Breakfast,60.0,Grams,72,0,1.20,2.40,13.20,0,0,1.20,n/a,348
+06/03/2022,"Vegetables, Mixed, Organic",Vegetable,Lunch,85.0,Grams,47,0,0.47,1.89,9.44,0,3.78,2.83,0,18.89
+06/03/2022,"Fries, Sweet Potato, Organic from Costco (15 pieces or 85g)",FrenchFries,Lunch,130.0,Grams,214,0,9.18,1.53,32.12,1.53,12.24,3.6,0,351.76
+06/03/2022,Whole Kernel Corn Frozen,Corn,Lunch,85.0,Grams,85,0,1.42,2.83,15.11,0,6.61,3.78,0,0
+06/03/2022,Hotsauce,Sauce,Lunch,60.0,Milliliters,60,0,3.50,0.20,5,0.20,3,0,0,1800
+06/03/2022,"Asparagus, Raw",Asparagus,Lunch,85.0,Grams,17,0,0.10,1.87,3.31,0,1.62,1.78,0,1.70
+06/03/2022,"Chicken Breast, Skinless, Cooked",Chicken,Lunch,110.0,Grams,182,0,3.93,34.12,0,1.11,0,0,93.50,81.40
+06/03/2022,Foccacia Bianco,WhiteBread,Lunch,40.0,Grams,48,0,0.80,1.60,8.80,0,0,0.80,n/a,232
+06/03/2022,Beans - Six bean mix,BeanBlack,Dinner,0.5,Cup,120,0,1,7,20.50,0.20,0.50,5,n/a,120
+06/03/2022,"Cheese,Marble Cheddar",Cheese,Dinner,30.0,Grams,120,0,10,7,1,7,0,0,30,220
+06/03/2022,Avocado,Avocado,Dinner,65.0,Grams,104,0,9.53,1.30,5.54,1.38,0.43,4.36,0,4.55
+06/03/2022,"Gay Lea Sour Cream, Original (2tbsp 30ml)",SourCream,Dinner,30.0,Milliliters,45,0,4,0.99,1.97,2.46,1,0,15,25
+06/03/2022,"Beef, Ground, Pan-Cooked, 93% Lean",Beef,Dinner,130.0,Grams,236,0,10.40,33.19,0,4.36,0,0,102.47,93.29
+06/03/2022,"Casa Medosa Tortilla, Large",Wrap,Dinner,64.0,Grams,200,0,4.50,7,30,1,2,5,0,360
+06/03/2022,Swiss Milk Chocolate With Whole Roasted Almonds,Chocolate,Snacks,1.0,Piece,19,0,1.22,0.33,1.78,0.50,1.33,0.11,0,1.67
+06/03/2022,"Chocolate Bar, Brownie, With Milk & Dark Chocolate, Roasted",Chocolate,Snacks,1.0,Piece,44,0,2.60,0.40,5,1.60,4.40,0.40,0,3
+06/02/2022,Foccacia Bianco,WhiteBread,Breakfast,75.0,Grams,90,0,1.50,3,16.50,0,0,1.50,n/a,435
+06/02/2022,"Vegetables, Mixed, Organic",Vegetable,Lunch,85.0,Grams,47,0,0.47,1.89,9.44,0,3.78,2.83,0,18.89
+06/02/2022,Whole Kernel Corn Frozen,Corn,Lunch,85.0,Grams,85,0,1.42,2.83,15.11,0,6.61,3.78,0,0
+06/02/2022,"Fries, Sweet Potato, Organic from Costco (15 pieces or 85g)",FrenchFries,Lunch,100.0,Grams,165,0,7.6,1.18,24.71,1.18,9.41,2.35,0,270.59
+06/02/2022,"Asparagus, Raw",Asparagus,Lunch,90.0,Grams,18,0,0.11,1.98,3.51,0,1.71,1.89,0,1.80
+06/02/2022,"Chicken Breast, Skinless, Cooked",Chicken,Lunch,97.0,Grams,160,0,3.46,30.9,0,0.98,0,0,82.45,71.78
+06/02/2022,Foccacia Bianco,WhiteBread,Lunch,85.0,Grams,102,0,1.70,3.40,18.70,0,0,1.70,n/a,493
+06/02/2022,Hotsauce,Sauce,Lunch,38.0,Milliliters,38,0,2.22,0.13,3.17,0.13,1.90,0,0,1140
+06/02/2022,"Chia Seeds, Organic",Seed,Dinner,20.0,Grams,93,0,6,2.67,8,0.67,0,6.67,0,2.67
+06/02/2022,Raspberries Frozen. 80 Gram = 3/4 Cup,Raspberry,Dinner,80.0,Grams,40,0,0.50,1,10,0,4,5,0,0
+06/02/2022,Frozen Sliced Peaches,Peach,Dinner,85.0,Grams,31,0,0,0.52,6.77,0,6.24,1.4,0,10.41
+06/02/2022,"Oat Milk, Unsweetened, Vanilla",Milk,Dinner,94.0,Milliliters,53,0,1.88,1.50,7.52,0.94,2.26,0.75,0,45.12
+06/02/2022,"Yogurt, Vanilla, Nonfat, Greek",Yogurt,Dinner,175.0,Grams,140,0,0,14,22,0,22,0,10,55
+06/02/2022,Oatmeal Cookie Crunch Granola,Grain,Dinner,15.0,Grams,71,0,3.82,1.64,8.45,0.82,2.18,1.64,n/a,25.91
+06/02/2022,Raspberries,Raspberry,Dinner,84.0,Grams,44,0,0.55,1.1,10.3,0.1,3.71,5.46,0,0.84
+06/01/2022,Olive Hearth Loaf,OliveBlack,Breakfast,1.0,Serving,150,0,2.50,6,26,0.30,0,2,0,320
+06/01/2022,Butter regular 2tsp Per Serv,Butter,Breakfast,4.2,Grams,29,0,3.36,0.4,0,2.10,0,0,10.50,0
+06/01/2022,"Cookie, M & M",Cookie,Lunch,0.5,Each,105,0,5,1,15,2.50,9,0.25,7.50,50
+06/01/2022,Steak And Cheese Sandwhich,SubSandwich,Lunch,1.0,Serving,620,0,20,46,76,10,8,2,100,2180
+06/01/2022,Subway Garlic Aioli,Garlic,Lunch,1.0,Serving,60,0,5,0,1,0,0,0,0,198
+06/01/2022,"Sauce, Chipotle Southwest, 6"" Portion",Sauce,Lunch,2.0,Tablespoons,100,0,10,0,1,1.50,1,0,5,160
+06/01/2022,Herb And Cheese Bread,WhiteBread,Lunch,1.0,Serving,200,0,5,9,36,2,2,1,10,550
+06/01/2022,45% Cocoa Dark Chocolate,Chocolate,Snacks,4.0,Pieces,89,0,4.89,0.89,10.67,2.67,9.33,1.33,n/a,n/a
+05/31/2022,Olive Hearth Loaf,OliveBlack,Breakfast,1.0,Serving,150,0,2.50,6,26,0.30,0,2,0,320
+05/31/2022,Butter regular 2tsp Per Serv,Butter,Breakfast,4.5,Grams,32,0,3.60,0.5,0,2.25,0,0,11.25,0
+05/31/2022,"Cherries, California Sweet (8)",Cherry,Breakfast,10.0,Pieces,45,0,0.25,1,11,0,9.50,1.50,0,0
+05/31/2022,"Fries, Sweet Potato, Organic from Costco (15 pieces or 85g)",FrenchFries,Lunch,100.0,Grams,165,0,7.6,1.18,24.71,1.18,9.41,2.35,0,270.59
+05/31/2022,"Vegetables, Mixed, Organic",Vegetable,Lunch,85.0,Grams,47,0,0.47,1.89,9.44,0,3.78,2.83,0,18.89
+05/31/2022,Whole Kernel Corn Frozen,Corn,Lunch,85.0,Grams,85,0,1.42,2.83,15.11,0,6.61,3.78,0,0
+05/31/2022,Butter regular 2tsp Per Serv,Butter,Lunch,7.5,Grams,53,0,6,0.8,0,3.75,0,0,18.75,0
+05/31/2022,Olive Hearth Loaf,OliveBlack,Lunch,1.0,Serving,150,0,2.50,6,26,0.30,0,2,0,320
+05/31/2022,Summer Fresh TZATZIKI Yogurt Dip (15g Tbsp),Yogurt,Lunch,1.0,Tablespoon,20,0,1.50,0.50,1,0.75,0.50,0,2.50,22.50
+05/31/2022,"Fish, Salmon, Cooked",Fish,Dinner,130.0,Grams,194,0,5.75,33.23,0,0.92,0,0,87.10,111.80
+05/31/2022,"Asparagus, Raw",Asparagus,Dinner,130.0,Grams,26,0,0.16,2.86,5.7,0,2.47,2.73,0,2.60
+05/31/2022,Summer Fresh TZATZIKI Yogurt Dip (15g Tbsp),Yogurt,Dinner,2.0,Tablespoons,40,0,3,1,2,1.50,1,0,5,45
+05/31/2022,Fibre One Brownies,Brownie,Snacks,2.0,Servings,180,0,6,2,36,3,14,10,0,170
+05/31/2022,45% Cocoa Dark Chocolate,Chocolate,Snacks,5.0,Pieces,111,0,6.11,1.11,13.33,3.33,11.67,1.67,n/a,n/a
+05/30/2022,"Cherries, California Sweet (8)",Cherry,Breakfast,10.0,Pieces,45,0,0.25,1,11,0,9.50,1.50,0,0
+05/30/2022,Olive Hearth Loaf,OliveBlack,Breakfast,1.0,Serving,150,0,2.50,6,26,0.30,0,2,0,320
+05/30/2022,Butter regular 2tsp Per Serv,Butter,Breakfast,7.2,Grams,50,0,5.76,0.7,0,3.60,0,0,18,0
+05/30/2022,Fibre One Brownies,Brownie,Breakfast,1.0,Serving,90,0,3,1,18,1.50,7,5,0,85
+05/30/2022,Whole Kernel Corn Frozen,Corn,Lunch,85.0,Grams,85,0,1.42,2.83,15.11,0,6.61,3.78,0,0
+05/30/2022,White Kidney Beans,BeanWhite,Lunch,0.5,Cup,85,0,0.47,6.62,17.3,0,0,4.73,0,99.37
+05/30/2022,"Beans, Canned, Black",BeanBlack,Lunch,0.5,Cup,100,0,0.50,8,20,0,0,7,0,100
+05/30/2022,Chicken Ham & Swiss,Chicken,Lunch,1.0,Piece,290,0,12,24,21,3,1,1,60,510
+05/30/2022,"Vegetables, Mixed, Organic",Vegetable,Lunch,85.0,Grams,47,0,0.47,1.89,9.44,0,3.78,2.83,0,18.89
+05/30/2022,Butter regular 2tsp Per Serv,Butter,Lunch,4.5,Grams,32,0,3.60,0.5,0,2.25,0,0,11.25,0
+05/30/2022,45% Cocoa Dark Chocolate,Chocolate,Snacks,1.0,Piece,22,0,1.22,0.22,2.67,0.67,2.33,0.33,n/a,n/a
+05/30/2022,Olive Hearth Loaf,OliveBlack,Snacks,0.5,Serving,75,0,1.25,3,13,0.15,0,1,0,160
+05/30/2022,Butter regular 2tsp Per Serv,Butter,Snacks,4.0,Grams,28,0,3.20,0.4,0,2,0,0,10,0
+05/30/2022,"Cherries, California Sweet (8)",Cherry,Snacks,8.0,Pieces,36,0,0.20,0.80,8.80,0,7.60,1.20,0,0
+05/30/2022,"Fries, Sweet Potato, Organic from Costco (15 pieces or 85g)",FrenchFries,Snacks,130.0,Grams,214,0,9.18,1.53,32.12,1.53,12.24,3.6,0,351.76

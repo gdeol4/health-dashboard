@@ -1,0 +1,69 @@
+Date,Name,Icon,Type,Quantity,Units,Calories,Deleted,Fat (g),Protein (g),Carbohydrates (g),Saturated Fat (g),Sugars (g),Fiber (g),Cholesterol (mg),Sodium (mg)
+06/26/2022,Orange Juice Simply 50 No Sugar 11,OrangeJuice,Breakfast,1.0,Cup,50,0,0,1,12,n/a,10,n/a,n/a,10
+06/26/2022,Stonemill Bread Multigrain-2 Slices,Toast,Breakfast,65.0,Grams,170,0,3,6,29,0.40,1,3,0,200
+06/26/2022,"Eggs, Large, Cage Free, Grade AA",Egg,Breakfast,3.0,Servings,210,0,15,18,0,4.50,n/a,n/a,555,210
+06/26/2022,Bacon,Bacon,Breakfast,3.0,Slices,120,0,10.50,7.50,0,3.75,0,0,30,450
+06/26/2022,"Chicken, Ground, Pan Browned",Chicken,Dinner,200.0,Grams,378,0,21.84,46.56,0,6.22,0,0,214,150
+06/26/2022,White Pita Bread,PitaSandwich,Dinner,0.75,Piece,80,0,0.50,2.50,16.50,0,0.50,0.50,0,125
+06/26/2022,Chocolate Milk,Milk,Snacks,250.0,Milliliters,150,0,4.50,14,13,3,12,1,20,280
+06/26/2022,Chocolat Au Lait Avec Amande,Chocolate,Snacks,46.0,Grams,266,0,16.95,1.21,26.63,8.47,21.79,1.21,6.5,24.21
+06/26/2022,"Beer, Alexander Keith's, Pale Ale",Beer,Snacks,11.5,Fluid ounces,152,0,0,1.73,11.21,0,n/a,n/a,0,n/a
+06/26/2022,Chocolat Au Lait Avec Amande,Chocolate,Snacks,11.4,Grams,66,0,4.20,0.30,6.60,2.10,5.40,0.30,1.50,6
+06/25/2022,"Chicken Breast, Skinless, Cooked",Chicken,Dinner,140.0,Grams,231,0,5,43.43,0,1.41,0,0,119,103.60
+06/25/2022,Whole Kernel Corn Frozen,Corn,Dinner,85.0,Grams,85,0,1.42,2.83,15.11,0,6.61,3.78,0,0
+06/25/2022,"Chicken, Ground, Pan Browned",Chicken,Dinner,50.0,Grams,95,0,5.46,11.64,0,1.55,0,0,53.50,37.50
+06/25/2022,Chocolat Au Lait Avec Amande,Chocolate,Snacks,22.8,Grams,132,0,8.40,0.60,13.20,4.20,10.80,0.60,3,12
+06/25/2022,Vector,Cereal,Snacks,45.0,Grams,178,0,2.21,4.66,36,0.41,9,2.70,0,168.54
+06/25/2022,"Beer, Banana Bread",Beer,Snacks,16.9,Fluid ounces,240,0,0,0,19.97,0,0,0,0,0
+06/25/2022,Beer,Beer,Snacks,1.0,Serving,150,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+06/25/2022,Lone Eagle West Coast IPA,Beer,Snacks,12.0,Ounces,240,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+06/25/2022,Lightly Salted Ripple Cut Potato Chips,PotatoChip,Snacks,50.0,Grams,270,0,17,3,27,1.50,0,2,0,105
+06/25/2022,White Pita Bread,PitaSandwich,Snacks,1.0,Piece,107,0,0.67,3.33,22,0,0.67,0.67,0,166.67
+06/25/2022,White Pita Bread,PitaSandwich,Snacks,0.5,Piece,53,0,0.33,1.67,11,0,0.33,0.33,0,83.33
+06/24/2022,Dark red kidney beans,BeanRed,Lunch,1.5,Cups,270,0,1.50,21,51,0.30,1.50,16.50,0,330
+06/24/2022,Ground Turkey,Turkey,Lunch,115.0,Grams,150,0,8.5,20.70,0,2.30,0,0,92,97.75
+06/24/2022,"Beer, Alexander Keith's, Pale Ale",Beer,Lunch,11.5,Fluid ounces,152,0,0,1.73,11.21,0,n/a,n/a,0,n/a
+06/24/2022,"Vegetables, Mixed, Organic",Vegetable,Lunch,170.0,Grams,94,0,0.94,3.78,18.89,0,7.56,5.67,0,37.78
+06/24/2022,"Fries, Sweet Potato, Organic from Costco (15 pieces or 85g)",FrenchFries,Lunch,85.0,Grams,140,0,6,1,21,1,8,2,0,230
+06/24/2022,Dark red kidney beans,BeanRed,Dinner,0.65,Cup,117,0,0.65,9.10,22.10,0.13,0.65,7.15,0,143
+06/24/2022,Ground Turkey,Turkey,Dinner,100.0,Grams,130,0,7,18,0,2,0,0,80,85
+06/24/2022,Vector,Cereal,Snacks,45.0,Grams,178,0,2.21,4.66,36,0.41,9,2.70,0,168.54
+06/24/2022,banana,Banana,Snacks,0.01,Serving,1,0,0,0.1,0.23,0,0.12,0.3,0,0.1
+06/24/2022,Chocolat Au Lait Avec Amande,Chocolate,Snacks,28.5,Grams,165,0,10.50,0.75,16.50,5.25,13.50,0.75,3.75,15
+06/24/2022,Chocolate Milk,Milk,Snacks,250.0,Milliliters,150,0,4.50,14,13,3,12,1,20,280
+06/24/2022,White Cheddar Bunnies,Snack,Snacks,19.0,Grams,95,0,4.43,1.90,12.3,0.63,0.63,0,0,95
+06/23/2022,Ground Turkey,Turkey,Lunch,115.0,Grams,150,0,8.5,20.70,0,2.30,0,0,92,97.75
+06/23/2022,"Fries, Sweet Potato, Organic from Costco (15 pieces or 85g)",FrenchFries,Lunch,130.0,Grams,214,0,9.18,1.53,32.12,1.53,12.24,3.6,0,351.76
+06/23/2022,Beer,Beer,Lunch,0.9,Serving,135,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+06/23/2022,"Vegetables, Mixed, Organic",Vegetable,Lunch,170.0,Grams,94,0,0.94,3.78,18.89,0,7.56,5.67,0,37.78
+06/23/2022,Tzatziki 2tbsp 30gm,SourCream,Lunch,30.0,Grams,50,0,3.50,2,2,2,1,0,10,95
+06/23/2022,Dark red kidney beans,BeanRed,Lunch,1.15,Cups,207,0,1.15,16.10,39.10,0.23,1.15,12.65,0,253
+06/23/2022,Vector,Cereal,Snacks,90.0,Grams,355,0,4.42,9.33,72,0.82,18,5.40,0,337.9
+06/23/2022,Naval Orange (Large),Orange,Snacks,1.0,Serving,87,0,0.20,1.70,22,0,17,4.40,0,0
+06/22/2022,"Fries, Sweet Potato, Organic from Costco (15 pieces or 85g)",FrenchFries,Lunch,142.0,Grams,234,0,10.2,1.67,35.8,1.67,13.36,3.34,0,384.24
+06/22/2022,"Vegetables, Mixed, Organic",Vegetable,Lunch,170.0,Grams,94,0,0.94,3.78,18.89,0,7.56,5.67,0,37.78
+06/22/2022,"Chicken Breast, Skinless, Cooked",Chicken,Lunch,174.0,Grams,287,0,6.21,53.97,0,1.76,0,0,147.90,128.76
+06/22/2022,Hotsauce,Sauce,Lunch,45.0,Milliliters,45,0,2.63,0.15,3.75,0.15,2.25,0,0,1350
+06/22/2022,Dark red kidney beans,BeanRed,Lunch,1.0,Cup,180,0,1,14,34,0.20,1,11,0,220
+06/22/2022,"Vegetables, Mixed, Organic",Vegetable,Dinner,170.0,Grams,94,0,0.94,3.78,18.89,0,7.56,5.67,0,37.78
+06/22/2022,Butter regular 2tsp Per Serv,Butter,Dinner,12.0,Grams,84,0,9.60,0.12,0,6,0,0,30,0
+06/22/2022,Broccoli and Cheese Stuffed Breaded Chicken Breast Cutlets,Chicken,Dinner,1.0,Each,280,0,16,18,17,4,3,1,50,500
+06/22/2022,Organic Broccoli Florets,Broccoli,Dinner,200.0,Grams,59,0,0,4.71,9.41,0,2.35,7.6,0,47.6
+06/22/2022,Lightly Salted Ripple Cut Potato Chips,PotatoChip,Snacks,20.0,Grams,108,0,6.80,1.20,10.80,0.60,0,0.80,0,42
+06/21/2022,"Vegetables, Mixed, Organic",Vegetable,Lunch,200.0,Grams,111,0,1.11,4.44,22.22,0,8.89,6.67,0,44.44
+06/21/2022,Broccoli and Cheese Stuffed Breaded Chicken Breast Cutlets,Chicken,Lunch,2.0,Each,560,0,32,36,34,8,6,2,100,1000
+06/21/2022,"Fries, Sweet Potato, Organic from Costco (15 pieces or 85g)",FrenchFries,Lunch,90.0,Grams,148,0,6.35,1.6,22.24,1.6,8.47,2.12,0,243.53
+06/21/2022,"Pizza, Cheese, 14"", Fast Food",Pizza,Dinner,3.0,Slices,816,0,29.39,36.80,100.67,13.4,12.42,5.25,64.89,1653.15
+06/21/2022,Lightly Salted Ripple Cut Potato Chips,PotatoChip,Snacks,55.0,Grams,297,0,18.70,3.30,29.70,1.65,0,2.20,0,115.50
+06/21/2022,Peach,Peach,Snacks,2.0,Servings,120,0,1,2,30,n/a,26,4,n/a,n/a
+06/21/2022,Lightly Salted Ripple Cut Potato Chips,PotatoChip,Snacks,80.0,Grams,432,0,27.20,4.80,43.20,2.40,0,3.20,0,168
+06/20/2022,Crackers Garden Vegetable,Cracker,Breakfast,10.0,Pieces,225,0,8.75,5,30,3.75,5,2.50,0,375
+06/20/2022,Six beans,BeanRed,Lunch,1.5,Cups,330,0,3,21,63,0.60,0,21,0,345
+06/20/2022,"Ground Beef, 90% Lean, Broiled",Beef,Lunch,100.0,Grams,217,0,11.73,26.11,0,4.62,0,0,85,68
+06/20/2022,"Beer, Alexander Keith's, Pale Ale",Beer,Lunch,11.5,Fluid ounces,152,0,0,1.73,11.21,0,n/a,n/a,0,n/a
+06/20/2022,"Fries, Sweet Potato, Organic from Costco (15 pieces or 85g)",FrenchFries,Lunch,140.0,Grams,231,0,9.88,1.65,34.59,1.65,13.18,3.29,0,378.82
+06/20/2022,"Vegetables, Mixed, Organic",Vegetable,Lunch,170.0,Grams,94,0,0.94,3.78,18.89,0,7.56,5.67,0,37.78
+06/20/2022,Broccoli and Cheese Stuffed Breaded Chicken Breast Cutlets,Chicken,Lunch,1.0,Each,280,0,16,18,17,4,3,1,50,500
+06/20/2022,Tzatziki 2tbsp 30gm,SourCream,Lunch,43.0,Grams,72,0,5.2,2.87,2.87,2.87,1.43,0,14.33,136.17
+06/20/2022,Ice Cream Sandwich,Sandwich,Snacks,1.0,Serving,220,0,8,2,35,1,21,1,5,85
+06/20/2022,Raisin Bran,Cereal,Snacks,200.0,Grams,644,0,3.39,16.95,155.93,0.68,71.19,27.12,0,779.66

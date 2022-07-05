@@ -1,0 +1,91 @@
+Date,Name,Icon,Type,Quantity,Units,Calories,Deleted,Fat (g),Protein (g),Carbohydrates (g),Saturated Fat (g),Sugars (g),Fiber (g),Cholesterol (mg),Sodium (mg)
+07/03/2022,Dark red kidney beans,BeanRed,Dinner,2.16,Cups,389,0,2.16,30.24,73.44,0.43,2.16,23.76,0,475.20
+07/03/2022,Extra Lean Ground Chicken,Chicken,Dinner,190.0,Grams,266,0,13.30,32.30,0,3.80,0,0,171,152
+07/03/2022,Whole Kernel Corn Frozen,Corn,Dinner,130.0,Grams,130,0,2.17,4.33,23.11,0,10.11,5.78,0,0
+07/03/2022,"Vegetables, Mixed, Organic",Vegetable,Dinner,85.0,Grams,47,0,0.47,1.89,9.44,0,3.78,2.83,0,18.89
+07/03/2022,Hazy Little Thing IPA,Beer,Dinner,12.0,Ounces,201,0,n/a,2.10,17.50,n/a,n/a,n/a,n/a,n/a
+07/03/2022,Swiss Milk Chocolate With Whole Roasted Almonds,Chocolate,Afternoon Snacks,2.0,Pieces,38,0,2.44,0.67,3.56,1,2.67,0.22,0,3.33
+07/03/2022,Fiber One Brownie,Brownie,Afternoon Snacks,1.0,Each,90,0,3,0.50,18,1.50,8,5,0,90
+07/03/2022,Crackers Garden Vegetable,Cracker,Afternoon Snacks,4.0,Pieces,90,0,3.50,2,12,1.50,2,1,0,150
+07/03/2022,Swiss Milk Chocolate With Whole Roasted Almonds,Chocolate,Afternoon Snacks,3.0,Pieces,57,0,3.67,1,5.33,1.50,4,0.33,0,5
+07/03/2022,Crackers Garden Vegetable,Cracker,Afternoon Snacks,2.0,Pieces,45,0,1.75,1,6,0.75,1,0.50,0,75
+07/03/2022,Swiss Milk Chocolate With Whole Roasted Almonds,Chocolate,Afternoon Snacks,3.0,Pieces,57,0,3.67,1,5.33,1.50,4,0.33,0,5
+07/02/2022,Black Chickpeas,BeanRed,Dinner,70.0,Grams,115,0,4.23,14.33,18.90,n/a,7.49,8.54,n/a,n/a
+07/02/2022,"Potatoes, Skinless, Cooked",Potato,Dinner,50.0,Grams,43,0,0.5,0.86,10.1,0.1,0.43,0.90,0,2.50
+07/02/2022,Gol Gappa Shells,Default,Snacks,11.0,Each,132,0,3.30,2.20,19.80,0.22,0,0,0,187
+07/02/2022,Corn on the Cob,Corn,Snacks,1.0,Each,90,0,1,3,19,0,5,1,0,0
+07/02/2022,Aloha Sour,MixedDrink,Snacks,473.0,Milliliters,200,0,n/a,n/a,50,n/a,n/a,n/a,n/a,n/a
+07/02/2022,"Chicken Breast, Skinless, Cooked",Chicken,Snacks,130.0,Grams,215,0,4.64,40.33,0,1.31,0,0,110.50,96.20
+07/02/2022,Small Red Potatos,Potato,Snacks,75.0,Grams,116,0,1.32,18.52,156.62,0.26,9.79,16.67,0,58.47
+07/02/2022,Tzatziki 2tbsp 30gm,SourCream,Snacks,60.0,Grams,100,0,7,4,4,4,2,0,20,190
+07/02/2022,Traditional hot italian sausage,Sausage,Snacks,240.0,Grams,525,0,40.50,37.50,3,13.50,0,3,150,1485
+07/02/2022,Extra Lean Ground Chicken,Chicken,Snacks,65.0,Grams,91,0,4.55,11.5,0,1.30,0,0,58.50,52
+07/02/2022,"Whole Wheat Pitas, Small",Toast,Snacks,46.0,Grams,140,0,1,6,29,0,0,5,n/a,190
+07/02/2022,Ginger Ale,CocaCola,Snacks,180.0,Milliliters,66,0,0,0,16.23,0,16.23,0,0,25.35
+07/02/2022,Crackers Garden Vegetable,Cracker,Snacks,16.0,Pieces,360,0,14,8,48,6,8,4,0,600
+07/02/2022,Gol Gappa Shells,Default,Snacks,15.0,Each,180,0,4.50,3,27,0.30,0,0,0,255
+07/02/2022,Chocolate Milk,Milk,Snacks,250.0,Milliliters,150,0,4.50,14,13,3,12,1,20,280
+07/02/2022,Swiss Milk Chocolate With Whole Roasted Almonds,Chocolate,Snacks,6.0,Pieces,113,0,7.33,2,10.67,3,8,0.67,0,10
+07/01/2022,"Vegetables, Mixed, Organic",Vegetable,Lunch,85.0,Grams,47,0,0.47,1.89,9.44,0,3.78,2.83,0,18.89
+07/01/2022,Dark red kidney beans,BeanRed,Lunch,2.16,Cups,389,0,2.16,30.24,73.44,0.43,2.16,23.76,0,475.20
+07/01/2022,Extra Lean Ground Chicken,Chicken,Lunch,210.0,Grams,294,0,14.70,35.70,0,4.20,0,0,189,168
+07/01/2022,Labatt Blue Beer,Beer,Lunch,1.0,Serving,153,0,0,0,5,n/a,n/a,n/a,n/a,n/a
+07/01/2022,Tzatziki 2tbsp 30gm,SourCream,Lunch,50.0,Grams,83,0,5.83,3.33,3.33,3.33,1.67,0,16.67,158.33
+07/01/2022,Whole Kernel Corn Frozen,Corn,Lunch,85.0,Grams,85,0,1.42,2.83,15.11,0,6.61,3.78,0,0
+07/01/2022,Crackers Garden Vegetable,Cracker,Snacks,14.0,Pieces,315,0,12.25,7,42,5.25,7,3.50,0,525
+07/01/2022,Herbed Soft Unripened Goats Milk Cheese,Cheese,Snacks,60.0,Grams,160,0,12,10,2,8,0,0,40,190
+07/01/2022,"Cookies, Sandwich, Strawberry Creme",Cookie,Snacks,1.0,Piece,47,0,2,0.33,7,0.83,n/a,n/a,n/a,n/a
+07/01/2022,Morretti Beer,Beer,Snacks,16.0,Ounces,200,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+07/01/2022,"Focaccia, Italian Flatbread, Plain",WhiteBread,Snacks,2.0,Ounces,141,0,4.48,4.97,20.29,0.50,1.19,0.99,0,318.31
+07/01/2022,Arincini 4 Balls,Default,Snacks,0.25,Serving,111,0,5.75,3,12,n/a,n/a,n/a,n/a,615.50
+06/30/2022,Red Seedless Grapes,Grapes,Lunch,150.0,Grams,100,0,0,1,26,0,22.20,1,0,2.80
+06/30/2022,"Vegetables, Mixed, Organic",Vegetable,Lunch,85.0,Grams,47,0,0.47,1.89,9.44,0,3.78,2.83,0,18.89
+06/30/2022,Whole Kernel Corn Frozen,Corn,Lunch,85.0,Grams,85,0,1.42,2.83,15.11,0,6.61,3.78,0,0
+06/30/2022,Dark red kidney beans,BeanRed,Lunch,1.5,Cups,270,0,1.50,21,51,0.30,1.50,16.50,0,330
+06/30/2022,Extra Lean Ground Chicken,Chicken,Lunch,130.0,Grams,182,0,9.10,22.10,0,2.60,0,0,117,104
+06/30/2022,"Beer, Banana Bread",Beer,Lunch,16.9,Fluid ounces,240,0,0,0,19.97,0,0,0,0,0
+06/30/2022,Butter regular 2tsp Per Serv,Butter,Lunch,5.0,Grams,35,0,4,0.5,0,2.50,0,0,12.50,0
+06/30/2022,Ataulfo Mango (Whole),Mango,Snacks,1.0,Serving,110,0,0,1,27,0,24,3,0,10
+06/30/2022,Vector,Cereal,Snacks,40.0,Grams,158,0,1.96,4.15,32,0.36,8,2.40,0,149.82
+06/30/2022,Chocolate Milk,Milk,Snacks,250.0,Milliliters,150,0,4.50,14,13,3,12,1,20,280
+06/30/2022,Youngs' Double Chocolate Stout,Beer,Snacks,220.0,Milliliters,134,0,0,0,18,0,0,0,0,0
+06/30/2022,Fibre One Brownies,Brownie,Snacks,1.0,Serving,90,0,3,1,18,1.50,7,5,0,85
+06/30/2022,"Popsicle, Chocolate Lolly",Popsicle,Snacks,1.0,Serving,50,0,0.10,1,12,0.10,10,1,0,35
+06/30/2022,Crackers Garden Vegetable,Cracker,Snacks,11.0,Pieces,248,0,9.63,5.50,33,4.13,5.50,2.75,0,412.50
+06/30/2022,White Cheddar Bunnies,Snack,Snacks,20.0,Grams,100,0,4.67,2,12.67,0.67,0.67,0,0,100
+06/29/2022,Swedish Meatballs,Meatballs,Lunch,1.0,Serving,380,0,31,18,6,12,n/a,n/a,100,750
+06/29/2022,"Cream sauce, 2.5 oz",Sauce,Lunch,1.0,Serving,280,0,8,4,46,5,6,0,5,2
+06/29/2022,Boiled Rice,Rice,Lunch,1.0,Serving,150,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+06/29/2022,"IKEA, Cinnamon Bun",CinnamonRoll,Lunch,0.5,Serving,160,0,4.50,3.50,23,2.50,8,1,n/a,140
+06/29/2022,"Broccoli Florets, Frozen",Broccoli,Lunch,50.0,Grams,12,0,0,1.18,2.35,0,0.59,1.18,0,5.88
+06/29/2022,Sparkljng nordic Fruit Water,Water,Lunch,1.0,Serving,100,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+06/29/2022,Chocolate Milk,Milk,Snacks,250.0,Milliliters,150,0,4.50,14,13,3,12,1,20,280
+06/29/2022,Ice Cream Sandwich,Sandwich,Snacks,0.5,Serving,110,0,4,1,17.50,0.50,10.50,0.50,2.50,42.50
+06/29/2022,Orange Juice Simply 50 No Sugar 11,OrangeJuice,Snacks,1.0,Cup,50,0,0,1,12,n/a,10,n/a,n/a,10
+06/29/2022,Chocolat Au Lait Avec Amande,Chocolate,Snacks,11.4,Grams,66,0,4.20,0.30,6.60,2.10,5.40,0.30,1.50,6
+06/29/2022,Real Whipped Cream,Cream,Snacks,30.0,Grams,80,0,6,1,6,4,4,0,20,20
+06/28/2022,Chocolat Au Lait Avec Amande,Chocolate,Breakfast,17.1,Grams,99,0,6.30,0.45,9.90,3.15,8.10,0.45,2.25,9
+06/28/2022,Whole Kernel Corn Frozen,Corn,Lunch,85.0,Grams,85,0,1.42,2.83,15.11,0,6.61,3.78,0,0
+06/28/2022,"Vegetables, Mixed, Organic",Vegetable,Lunch,85.0,Grams,47,0,0.47,1.89,9.44,0,3.78,2.83,0,18.89
+06/28/2022,Extra Lean Ground Chicken,Chicken,Lunch,132.0,Grams,185,0,9.24,22.44,0,2.64,0,0,118.80,105.60
+06/28/2022,Dark red kidney beans,BeanRed,Lunch,1.5,Cups,270,0,1.50,21,51,0.30,1.50,16.50,0,330
+06/28/2022,Tzatziki 2tbsp 30gm,SourCream,Lunch,40.0,Grams,67,0,4.67,2.67,2.67,2.67,1.33,0,13.33,126.67
+06/28/2022,Münchner Gold,Beer,Lunch,500.0,Milliliters,230,0,0,0,58,0,0,0,0,0
+06/28/2022,Ataulfo Mango (Whole),Mango,Lunch,1.0,Serving,110,0,0,1,27,0,24,3,0,10
+06/28/2022,"Fries, Sweet Potato, Organic from Costco (15 pieces or 85g)",FrenchFries,Dinner,230.0,Grams,379,0,16.24,2.71,56.82,2.71,21.65,5.41,0,622.35
+06/28/2022,Chocolate Milk,Milk,Dinner,500.0,Milliliters,300,0,9,28,26,6,24,2,40,560
+06/28/2022,Ice Cream Sandwich,Sandwich,Snacks,1.0,Serving,220,0,8,2,35,1,21,1,5,85
+06/28/2022,Chocolat Au Lait Avec Amande,Chocolate,Snacks,5.7,Grams,33,0,2.10,0.15,3.30,1.5,2.70,0.15,0.75,3
+06/27/2022,Extra Lean Ground Chicken,Chicken,Lunch,165.0,Grams,231,0,11.55,28.5,0,3.30,0,0,148.50,132
+06/27/2022,"Vegetables, Mixed, Organic",Vegetable,Lunch,85.0,Grams,47,0,0.47,1.89,9.44,0,3.78,2.83,0,18.89
+06/27/2022,Whole Kernel Corn Frozen,Corn,Lunch,85.0,Grams,85,0,1.42,2.83,15.11,0,6.61,3.78,0,0
+06/27/2022,Dark red kidney beans,BeanRed,Lunch,1.5,Cups,270,0,1.50,21,51,0.30,1.50,16.50,0,330
+06/27/2022,"Beer, labatts blue, 12 oz can",Beer,Lunch,1.0,Serving,115,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+06/27/2022,"Fries, Sweet Potato, Organic from Costco (15 pieces or 85g)",FrenchFries,Lunch,100.0,Grams,165,0,7.6,1.18,24.71,1.18,9.41,2.35,0,270.59
+06/27/2022,Ataulfo Mango (Whole),Mango,Lunch,1.0,Serving,110,0,0,1,27,0,24,3,0,10
+06/27/2022,Chocolat Au Lait Avec Amande,Chocolate,Snacks,80.0,Grams,463,0,29.47,2.11,46.32,14.74,37.89,2.11,10.53,42.11
+06/27/2022,Real Whipped Cream,Cream,Snacks,60.0,Grams,160,0,12,2,12,8,8,0,40,40
+06/27/2022,Chocolate Milk,Milk,Snacks,125.0,Milliliters,75,0,2.25,7,6.50,1.50,6,0.50,10,140
+06/27/2022,Vector,Cereal,Snacks,45.0,Grams,178,0,2.21,4.66,36,0.41,9,2.70,0,168.54
+06/27/2022,White Cheddar Bunnies,Snack,Snacks,20.0,Grams,100,0,4.67,2,12.67,0.67,0.67,0,0,100
+07/03/2022,Fitbit Adjustment,FitBitGreen,Exercise,0,minutes,0.0,4
